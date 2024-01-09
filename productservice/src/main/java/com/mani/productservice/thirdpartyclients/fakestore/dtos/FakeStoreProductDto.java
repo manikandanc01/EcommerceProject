@@ -1,4 +1,4 @@
-package com.mani.productservice.dto;
+package com.mani.productservice.thirdpartyclients.fakestore.dtos;
 
 import jakarta.websocket.server.ServerEndpoint;
 import lombok.Getter;
